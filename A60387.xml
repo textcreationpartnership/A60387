@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd at St. James's Church, Westminster, April 2, 1696, upon the discovery of the late horrid conspiracy against the person of our gracious King William by James Smalwood ...</title>
+            <author>Smalwood, James, d. 1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60387</idno>
+            <idno type="STC">Wing S4008</idno>
+            <idno type="STC">ESTC R10066</idno>
+            <idno type="EEBO-CITATION">13773290</idno>
+            <idno type="OCLC">ocm 13773290</idno>
+            <idno type="VID">101754</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101754)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 850:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd at St. James's Church, Westminster, April 2, 1696, upon the discovery of the late horrid conspiracy against the person of our gracious King William by James Smalwood ...</title>
+                  <author>Smalwood, James, d. 1719.</author>
+               </titleStmt>
+               <extent>[2], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author and sold by E. Whitlock ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Published at the request of the parish."</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XIII, 13 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101754:1"/>
+            <pb facs="tcp:101754:1"/>
+            <p> A SERMON Preach'd at St. <hi>JAMES</hi>'s Church, <hi>Weſtminſter, April</hi> 2. 1696.</p>
+            <p>UPON THE DISCOVERY of the late <hi>Horrid Con<g ref="char:EOLhyphen"/>ſpiracy</hi> againſt the PERSON of Our Gracious KING <hi>WILLIAM.</hi>
+            </p>
+            <p>By <hi>JAMES SMALWOOD,</hi> Chaplain to the Right Honourable the Earl of <hi>ROMNEY, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed at the Requeſt of the Pariſh.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and Sold by <hi>E. Whitlock</hi> near <hi>Stationers-Hall,</hi> 1696.</p>
+            <pb facs="tcp:101754:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:101754:2"/>
+            <head>A SERMON Preached at St. <hi>James</hi>'s Church.</head>
+            <epigraph>
+               <bibl>Matth. XIII. 13.</bibl>
+               <q>Seeing, they ſee not; and hearing, they hear not; neither do they under<g ref="char:EOLhyphen"/>ſtand.</q>
+            </epigraph>
+            <p>THeſe Words are a ſhort Cha<g ref="char:EOLhyphen"/>racter of the <hi>Jewiſh</hi> obſtinacy againſt the clear Light of our Saviour's Goſpel, and the undeniable Teſtimonies that did attend it.</p>
+            <pb n="4" facs="tcp:101754:3"/>
+            <p> But I deſign not at preſent to Diſcourſe upon that Subject. Certain it is, our Savi<g ref="char:EOLhyphen"/>our Chriſt both taught and did ſuch things as none but God, or one acted by a Di<g ref="char:EOLhyphen"/>vine Power, could poſſibly have taught, or done. And therefore thoſe Men that were Eye Witneſſes to all his Miracles, and ſaw him daily and hourly perform ſuch things as were contrary to the courſe of Nature, and above the Skill of any Impoſtor, nay the Power of Angels or Devils to perform, and ſtill would hold out againſt all thoſe Condeſcending Demonſtrations of his Pow<g ref="char:EOLhyphen"/>er. Thoſe Men, I ſay, were moſt ſtupidly perverſe, and were deſervedly given over as Brute Creatures, beyond Conviction.</p>
+            <p>And indeed our Saviour ſpeaks theſe words out of an Ancient Prophet, as an accompliſhment of a Curſe fore boded up<g ref="char:EOLhyphen"/>on that People: <hi>In them,</hi> ſays he, <hi>is fulfilled</hi> 
+               <note place="margin">
+                  <hi>Ver.</hi> 14.</note> 
+               <hi>the Prophecy of Eſaias, which ſaith, by hear<g ref="char:EOLhyphen"/>ing ye ſhall hear, and ſhall not underſtand; and ſeeing ye ſhall ſee, and not perceive.</hi>
+            </p>
+            <pb n="5" facs="tcp:101754:3"/>
+            <p> And I could heartily wiſh the Prophecy had been fully compleated, and had ended there; it were well if it did not reach down even to our times, and that there were not even amongſt us <hi>Chriſtians</hi> ſome to be found, that are as obſtinately blind as ever the <hi>Jews</hi> were; Men that will not ſee even <hi>in theſe their days the things that belong unto their Peace.</hi> Tho' God Al<g ref="char:EOLhyphen"/>mighty <note place="margin">
+                  <hi>Luke</hi> 19 42.</note> in the diſtribution both of his <hi>Mercies</hi> and his <hi>Judgments</hi> has ſufficiently manifeſted himſelf to the World; yet <hi>ſee<g ref="char:EOLhyphen"/>ing, they ſee not, and hearing they hear not, neither do they underſtand.</hi>
+            </p>
+            <p>The Text being thus brought down, and made applicable to our own Times, I ſhall firſt lay down theſe two Propoſitions, which ſeem to be intended by it.</p>
+            <p>
+               <hi>Firſt,</hi> That it is the higheſt contempt and groſſeſt affront that can be offered to the Divine Majeſty, for Men, after the cleareſt manifeſtations of God's <hi>Power</hi> and <hi>Wiſdom,</hi>
+               <pb n="6" facs="tcp:101754:4"/> ſtill to hood-wink their Underſtandings, and to perſiſt in Blindneſs.</p>
+            <p>
+               <hi>Secondly,</hi> That it is the heavieſt Curſe that can befall Men, to have <hi>their hearts waxed groſs, and their ears dull'd, and their eyes clo<g ref="char:EOLhyphen"/>ſed,</hi> 
+               <note place="margin">
+                  <hi>Mat.</hi> 13. 15.</note> and ſo to be forſaken of God. And then,</p>
+            <p>
+               <hi>Thirdly,</hi> I ſhall enquire who they are that may moſt deſervedly be judged to fall under this Curſe.</p>
+            <p>1. It is a high affront to God, after the cleareſt demonſtrations of his <hi>Wiſdom</hi> and <hi>Power,</hi> for Men ſtill to perſiſt in Blindneſs. And the Reaſon is this; becauſe it is a plain deſpiſing of God's two chief Attributes, his <hi>Wiſdom,</hi> and his <hi>Power.</hi>
+            </p>
+            <p n="1">1. It is a contempt of his <hi>Wiſdom;</hi> the Wiſdom and Knowledge of God is like himſelf, Infinite. By this he is able to pe<g ref="char:EOLhyphen"/>netrate into the hidden Thoughts and Con<g ref="char:EOLhyphen"/>trivances of the Hearts of Men, and to diſ<g ref="char:EOLhyphen"/>cover all their ſecret and conceal'd Deſigns.
+<pb n="7" facs="tcp:101754:4"/> 
+               <hi>Woe unto them,</hi> ſays the Prophet <hi>Iſaiah, that ſeek deep to hide their Counſel from the Lord, and their work is in the dark, and they</hi> 
+               <note place="margin">Iſa. 29. 15.</note> 
+               <hi>ſay, who ſeeth us? Surely your turning of things upſide down, ſhall be eſteemed as the Potter's Clay.</hi>
+            </p>
+            <p>God knows the whole Bent and Inclinati<g ref="char:EOLhyphen"/>ons of Men; for he firſt endued their Minds with what Faculties and Powers they have: He that made the Heart, ſurely knows all its Turnings and Windings, all its Corners and Labyrinths. Thus holy <hi>David</hi> argues, <hi>He</hi> 
+               <note place="margin">Pſal. 33. 15.</note> 
+               <hi>faſhioneth all the hearts of Men;</hi> and there<g ref="char:EOLhyphen"/>fore, <hi>he underſtandeth all their works;</hi> that is, the Works acted in their Hearts, in the innermoſt Cloſets and Receſſes of the Soul; he needs no Spies to inform him of Men's Conſultations, all things are naked and open to his Eyes from all Eternity. By vertue of this Infinite Knowledge God is privy to all Plots, be they never ſo cloſely laid: How ſucceſsfully might Men carry on their Plots, if they could be but once aſſu<g ref="char:EOLhyphen"/>red that no body plotted but themſelves!
+<pb n="8" facs="tcp:101754:5"/> But this is ſometimes apt to ſtartle them, and make them leſs Confident of their Projects, when they have a Suſpicion that others are at work too, and ſuch as are every way equal to themſelves in Cunning and Conduct. Now in this Particular, God by his Infinite Knowledge has a vaſt Advantage againſt all the Policies of Men: As they Plot, ſo does he too; he has Deſigns as well as they, and Deſigns beyond them; he is always preſent at their Cabals, and Conſults, and ſhifted Meetings, and therefore can trace and ob<g ref="char:EOLhyphen"/>ſerve their Motions. And it's wonderful to conſider, what Methods and Inſtruments God Almighty is ſometimes pleaſed to make uſe of, to baffle the moſt Dark and Secret Conſpiracies: How he does ſometimes em<g ref="char:EOLhyphen"/>ploy his very Enemies for the promoting of his own Cauſe: How he can inſpire ſome<g ref="char:EOLhyphen"/>times ſome of the very Agents to betray the Villanies of their Fellows: How he can go<g ref="char:EOLhyphen"/>vern and over-rule both the Underſtandings and Wills of Men, as ſhall beſt ſerve his own wiſe Purpoſes and Decrees. Let Men deſign things never ſo warily, and make them ne<g ref="char:EOLhyphen"/>ver
+<pb n="9" facs="tcp:101754:5"/> ſo ſecure, even to a Confidence of an <hi>Infallibility;</hi> let them reckon of it as a Blow that cannot miſs, yet after all God can defeat and fruſtrate them; he can clap in his Arm juſt between the Dagger and the Body; he can, as the Prophet <hi>Iſaiah</hi> ſpeaks, <hi>Put a hook</hi> 
+               <note place="margin">Iſa. 37. 20.</note> 
+               <hi>into the noſe, and a bridle into the lips</hi> of a proud and inſolent Enemy, and can <hi>turn him back by the way that he came.</hi>
+            </p>
+            <p>If therefore God be of that Infinite Know<g ref="char:EOLhyphen"/>ledge, as to be always preſent to Men's moſt retired Thoughts; if he ſees from all Eter<g ref="char:EOLhyphen"/>nity every little Occurrence that can either further or prevent their Deſigns, how plain<g ref="char:EOLhyphen"/>ly do thoſe Men contemn and villifie God's Omniſcience, that perceiving all this, will ſtill be driving on their fooliſh Plots, and will not comply with the preſent Govern<g ref="char:EOLhyphen"/>ment of Affairs, tho' they know God go<g ref="char:EOLhyphen"/>verns all: Which brings me to the Second Attribute of God, which theſe Headſtrong Men by their conceited Devices do plainly affront, and that is his <hi>Power.</hi>
+            </p>
+            <pb n="10" facs="tcp:101754:6"/>
+            <p> 2. The <hi>Power</hi> of God is almighty, irriſi<g ref="char:EOLhyphen"/>ſtible, and uncontroulable: 'Twas he that <hi>made the Heavens and the Earth;</hi> and then we may well make the Prophet <hi>Jeremy</hi>'s Con<g ref="char:EOLhyphen"/>cluſion from it, that <hi>nothing is too hard for</hi> 
+               <note place="margin">Jer. 32. 17.</note> 
+               <hi>him:</hi> He that with a Word made this great Fabrick of the World, may ſurely with the turn of his Hand manage every thing in it ſo as to be ſubſervient to his Will.</p>
+            <p>But not to inſiſt upon that wide and ex<g ref="char:EOLhyphen"/>tenſive part of God's Power, which muſt be acknowledged in the Government of the World, let us conſider it only as it can go<g ref="char:EOLhyphen"/>vern the Hearts and Minds of Men, that ſo thoſe Men that will run blindly in an Error, and will ſhut up their Eyes againſt the plain<g ref="char:EOLhyphen"/>eſt Convictions, may, if they pleaſe to abate a little of the Heat of their Tempers, and to mitigate their Paſſions, return once to a bet<g ref="char:EOLhyphen"/>ter mind, and forſake that <hi>Jewiſh Stomach<g ref="char:EOLhyphen"/>fulneſs,</hi> which is directly oppoſite to the gentle and <hi>mild Genius of the Goſpel.</hi>
+            </p>
+            <pb n="11" facs="tcp:101754:6"/>
+            <p> That God therefore has a Sovereign Power over the Hearts and Paſſions of Men, as well as any other part of his Creation, is as cer<g ref="char:EOLhyphen"/>tainly true, as that he himſelf was the firſt framer of them. He that can <hi>ſet bounds to the Sea, ſaying hitherto ſhalt thou goe, and no further,</hi> can alſo quiet and ſubdue the moſt ſwelling Thoughts and diſorderly Affecti<g ref="char:EOLhyphen"/>ons of weak Man; he can let them looſe, like the Winds, when he pleaſes, and for Rea<g ref="char:EOLhyphen"/>ſons beſt known to his Wiſdom, to bluſter and make diſturbances in the World a while, and when they have finiſh'd the work that he deſign'd, he can call them back again, compoſe and quiet them in an inſtant. <hi>Dicto citius tumida aequora placeat,</hi> 
+               <note place="margin">
+                  <hi>Virg. Mat.</hi> 8. 26.</note> he can <hi>rebuke the Winds and the Seas,</hi> and make the black Cloud that was charged with Thunder, and ready to burſt upon us, paſs gently away into Smoak and Va<g ref="char:EOLhyphen"/>pour.</p>
+            <p>Therefore, not only the Wiſdom but the Power alſo of God appearing evidently to
+<pb n="12" facs="tcp:101754:7"/> be thus great, and irreſiſtible, what Noti<g ref="char:EOLhyphen"/>ons of God muſt we ſuppoſe thoſe Men to have, who will not ſubmit to <hi>His</hi> Govern<g ref="char:EOLhyphen"/>ment, and that which is ſo ſignally appoint<g ref="char:EOLhyphen"/>ed by him? What ſort of Spirit muſt influ<g ref="char:EOLhyphen"/>ence the Minds of theſe Men, to make them ſo reſty and untractable under a meek and merciful Maſter? What makes them, as the <hi>Jews</hi> of old, to rebel againſt <hi>Moſes,</hi> whom the Lord has, as a Guide and Ruler, ſet over them, and who has ſafely conducted them through many Dangers and Difficulties, and long for ſome <hi>Foreign Egyptian Pharaoh</hi> to bring Slavery and Bondage upon them, and to blacken the Face of their Religion, and drown the Light of the Goſpel in a thick Darkneſs? Nothing certainly can be ſaid of theſe Men, but that they are perfectly infa<g ref="char:EOLhyphen"/>tuated, and wilfully in the wrong.</p>
+            <p n="2">II. And this leads me to the Second Ge<g ref="char:EOLhyphen"/>neral, namely, That it is the heavieſt Curſe that can befall Men, to have their Hearts thus waxed groſs, and their Eyes dulled.</p>
+            <pb n="13" facs="tcp:101754:7"/>
+            <p> And that Curſe God ſends upon them for Two very good Reaſons:</p>
+            <list>
+               <item>1. Becauſe they will not conſider the <hi>Judgments</hi> of God.</item>
+               <item>2. Becauſe they will not conſider his <hi>Mer<g ref="char:EOLhyphen"/>cies.</hi>
+               </item>
+            </list>
+            <p n="1">1. It is a great Curſe not to conſider the <hi>Judgments</hi> of God. King <hi>Pharaoh</hi> was an eminent Sufferer under God's Wrath upon this Account: For we read, the longer that he reſiſted the Judgments of <hi>God,</hi> the more was his wicked Heart hardned, till at laſt he ar<g ref="char:EOLhyphen"/>rived at a monſtrous degree of Hardneſs, ha<g ref="char:EOLhyphen"/>ving been, as the Text tells us, hardned under <hi>Ten Plagues.</hi> And the whole Nation of the Jews have a long time been, and ſtill are, a lively Inſtance of <hi>God</hi>'s Indignation for this Sin of Obſtinacy, after many and great Judgments, for their Correction, ſent upon them.</p>
+            <p n="2">2. It is a great Curſe not to conſider the <hi>Mercies</hi> of <hi>God;</hi> and this we find charged as
+<pb n="14" facs="tcp:101754:8"/> the higheſt piece of ingratitude upon the People of <hi>Iſrael,</hi> that <hi>they remembred not the Lord their God, who had delivered them out of the hands of all their Enemies, neither ſhew'd they kindneſs to Gideon,</hi> who had been their <note place="margin">
+                  <hi>Judg.</hi> 3. 34.</note> Deliverer, <hi>according to all the goodneſs he had ſhewed Iſrael.</hi> God reſented it highly that they were ungrateful to <hi>Gideon,</hi> whom he had made the Inſtrument of their Deliver<g ref="char:EOLhyphen"/>ance; <hi>Gideon</hi> that Mighty Man of Valour that demoliſhed the Idolatrous <hi>Altars of</hi> 
+               <note place="margin">
+                  <hi>Jude</hi> 6. 12. 6. 27. 9. 17.</note> 
+               <hi>Baal,</hi> that often hazarded his own Perſon in Battle againſt their Enemies, and at laſt Conquer'd and Subdu'd them. And yet for all theſe his good Services, that they ſhould make ſuch unkind and unworthy returns to him, God we read was very much diſplea<g ref="char:EOLhyphen"/>ſed at them, and as a token of his great diſ<g ref="char:EOLhyphen"/>pleaſure, we may read afterwards what a Curſe God laid upon them; for not long after they became a Prey to their Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>And that which aggravates this ſort of Sin, and provokes God's anger againſt it,
+<pb n="15" facs="tcp:101754:8"/> is chiefly, that it is committed againſt our own Knowledge; we ſee and feel God's Mercies and Judgments, and yet we are ſtill ſo perverſe and incorrigible as not to be prevail'd upon by them; neither the Af<g ref="char:EOLhyphen"/>flictions that God exerciſes us with, nor the Deliverances that he works for us, make any impreſſion upon us. We, I am ſure, of this Nation, have often been tried by both; God has uſed all means both to ſweeten our Blood by gentle Lenitives, and to purge it by ſharper Remedies; and if there ſtill are found amongſt us Men that will not be <hi>Converted, and be Heal'd,</hi> they muſt be <note place="margin">
+                  <hi>Mat.</hi> 13. 15.</note> given over as Men in a deſperate Condition, and beyond Cure; which brings me to the third General, and that is,</p>
+            <p n="3">III. To enquire who thoſe Men are that may deſervedly be thought to fall under this Cenſure? And there are two ſorts that I think moſt juſtly do, and thoſe I ſhall not ſcruple openly to name; one is the down<g ref="char:EOLhyphen"/>right profeſſed <hi>Papiſt,</hi> and the other is he that affects to be call'd a <hi>Jacobite;</hi> Men
+<pb n="16" facs="tcp:101754:9"/> tho' of different names, yet both embark'd in the ſame Cauſe, and both full of the ſame turbulent Spirit.</p>
+            <p n="1">1. What Spirit the former of theſe are of, not only their Actions all along, but numbers even of their own Books do in<g ref="char:EOLhyphen"/>form us. It is a Spirit that does not only thwart the orderly and peaceable Principles of Chriſtianity, but is contrary to Huma<g ref="char:EOLhyphen"/>nity it ſelf. Theſe Men by Plots and Con<g ref="char:EOLhyphen"/>ſpiracies, by Fire, and Sword, and by Sub<g ref="char:EOLhyphen"/>verting the Peace and Order of the World, have always endeavour'd to promote and advance their Religion; nay, they value not the Sacrificing of Kings and Princes to the accompliſhing their Wicked Ends and Purpo<g ref="char:EOLhyphen"/>ſes; as if the God whom the Chriſtians Worſhip, were not a God of Order, but Confuſion; and Kingdoms and Societies of Men were form'd for no other end, but to be a Victim and Burnt-Sacrifice when ever any warm Zealot or bigotted Prieſt ſhould ſo think fit. But what a ſcandal muſt this be all this while to the Chriſtian Religion?
+<pb n="17" facs="tcp:101754:9"/> what exact repreſentations of Chriſtian Love and Charity here are? how far more ho<g ref="char:EOLhyphen"/>nourable apprehenſions of the Divine Na<g ref="char:EOLhyphen"/>ture had even the Heathens themſelves, than theſe Men? <hi>Dii Immortales ad uſum hominum fabrefacti paenè videantur,</hi> ſays <hi>Tully,</hi> the Na<g ref="char:EOLhyphen"/>ture of the Gods ſeems to be exactly fra<g ref="char:EOLhyphen"/>med for the uſe and benefit of Mankind.</p>
+            <p>But when Religion once comes to ſup<g ref="char:EOLhyphen"/>plant Moral Honeſty, and to preſcribe Rules contrary both to the Natural Compaſſion of Mankind, and the peaceable Laws of the Goſpel; when it once teaches the abſurdeſt and moſt dangerous Maxims; as, that Equivo<g ref="char:EOLhyphen"/>cation in ſome Caſes may be uſed, that Men may tell Lies upon ſome Accounts; or that to kill a Man for God's ſake, is no Crime, when it ſerves to no other uſe but to enflame the Tempers of Men, and ſet a ſharper edge upon their Spirits, and ſo to make them ten times more the Children of Wrath than they were by Nature; then ſurely Religion loſes its Nature, and ceaſes to be what it pretends: For what is Religion good for, but
+<pb n="18" facs="tcp:101754:10"/> to reform the Manners and Diſpoſitions of Men, to reſtrain Humane Nature from Vi<g ref="char:EOLhyphen"/>olence and Cruelty, from Falſehood and Treachery, from Sedition and Treaſon. It were a great deal better for the peace and quiet of Mankind that there were no ſuch thing as Religion, and that Humane Na<g ref="char:EOLhyphen"/>ture were left to the conduct of its own In<g ref="char:EOLhyphen"/>clinations, which in a great many Men are mild, and merciful, than to be acted by a Religion which inſpires Men with ſo wild a Fury, and prompts them to commit ſuch Outrages.</p>
+            <p>This is the Spirit of the former ſort of Men, which I ſpeak not out of any virulen<g ref="char:EOLhyphen"/>cy or rancour againſt them, but what may be juſtified out of hundreds of their <note n="*" place="margin">
+                  <hi>Leſſius. Molina. Eſcobar. <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iliutius,</hi> &amp;c</note> own Authors. And truly, if my Text may be juſtly applied to any ſort of Men in the World, it may certainly to this; Men who will not open their Eyes to the light of the Goſpel, but caſt all the miſts and ſhadows before it they can deviſe, to hinder both themſelves and others from being enlight<g ref="char:EOLhyphen"/>ned,
+<pb n="19" facs="tcp:101754:10"/> and convinced by it. Theſe Men, and the Images they Worſhip are both alike, and we have them very well deſcrib'd in the 115th <hi>Pſalm. Eyes have they, but they ſee not, ears have they, but they hear not,</hi> &amp;c. <hi>they that make them, are like unto them, and ſo are all they that put their truſt in them.</hi> So much for the former ſort.</p>
+            <p>
+               <hi>Secondly,</hi> And truly the latter ſort of Men, they that love to diſtinguiſh them<g ref="char:EOLhyphen"/>ſelves by a Name, are as much to be Con<g ref="char:EOLhyphen"/>demn'd as the former. The <hi>Jeſuite,</hi> and the <hi>Jacobite,</hi> are equally well wiſhers to the preſent Government; but one thing may be ſaid of both of them, they neither of them do their Maſters; from whom they take their Name, much Service. 'Tis true, I have ſo much Charity for the latter, as to think their Principles are not ſo much tin<g ref="char:EOLhyphen"/>ctured with Blood as thoſe of the former are: I cannot think that all their <hi>Obedience,</hi> and <hi>Long-Suffering,</hi> and <hi>Paſſiveneſs,</hi> and <hi>Submiſſion,</hi> are already changed, and quite gone over into the other Extreams of <hi>Cru<g ref="char:EOLhyphen"/>elty,</hi> and <hi>Treachery,</hi> and <hi>Murder;</hi> Vice has
+<pb n="20" facs="tcp:101754:11"/> its Degrees and Progreſſes as well as Vertue; and as no Man can by one ſingle Act of Pi<g ref="char:EOLhyphen"/>ety, or Charity, or any other Vertue, nay not by a few repeated ones, deſervedly ar<g ref="char:EOLhyphen"/>rive at the Character of a perfect good Man; ſo neither do I think that a Man can all on the ſudden, tho' ſome of the School-Men Teach otherwiſe, become an Accom<g ref="char:EOLhyphen"/>pliſh'd and Compleated Villain. How<g ref="char:EOLhyphen"/>ever, if we may judge of theſe latter ſort of Men from this late Barbarous Conſpiracy, wherein, upon invincible Teſtimonies, we are aſſured ſome of them were engaged; we have all the Reaſon in the World to put no fair Conſtruction either on their Actions or Intentions. But I would gladly know what Reaſons theſe Men can give for their mighty uneaſineſs under, and their endea<g ref="char:EOLhyphen"/>vourings to ſubvert the preſent Government? I cannot conceive any, unleſs theſe Three may ſerve for ſome; either,</p>
+            <list>
+               <item>I. They are diſſatisfied with the preſent King; Or,</item>
+               <pb n="21" facs="tcp:101754:11"/>
+               <item> II. They long for their former Maſter. Or,</item>
+               <item>III. They have ſome Preſſures of Conſci<g ref="char:EOLhyphen"/>ence laid upon them.</item>
+            </list>
+            <p n="1">1. As for the firſt, How can any Reaſon<g ref="char:EOLhyphen"/>able Man be diſſatisfied with our preſent King? If they diſpute his Right, was he not called in by the Voice of the People, which is the ſame with that of God? Was not the Kingdom juſt running into Anarchy and Confuſion? Our holy Religion proſtituted and left defenceleſs? The Laws of the Land made of no Force or Activity? and all occa<g ref="char:EOLhyphen"/>ſion'd by the Vacancy of the Throne? And who, I would know, when the Helm of the Government was thus <hi>ſhamefully</hi> left and de<g ref="char:EOLhyphen"/>ſerted, had a more <hi>rightful</hi> and <hi>lawful</hi> Title to ſtep in and ſave our ſinking Ship, than our preſent King? He wss no Subject, there<g ref="char:EOLhyphen"/>fore no Uſurper; He was a Prince wholly in<g ref="char:EOLhyphen"/>dependent of the Power of <hi>England,</hi> and ſo nearly related to the Throne, that he was
+<pb n="22" facs="tcp:101754:12"/> rightly and juſtly concerned to ſee it fill'd, and the Government kept upon its ancient Bottom (if it may be ſaid to have had then any Bottom at all, when it was ſo unfaithfully undermined) This was an honourable and juſt Action, and what Men of all Principles, I mean all Proteſtants, were then very well ſatisfied with; and why they ſhould not be much more ſo now, unleſs it were the No<g ref="char:EOLhyphen"/>velty that then pleaſed them, I cannot ima<g ref="char:EOLhyphen"/>gine. Indeed, I rather think that we have much more Reaſon now to be ſatisfied than before; for now a long time his Authority has been confirmed and ratified by the Eſtates of the Nation, with whoſe Determinations all private Subjects are bound to acquieſce; this makes him our <hi>Rightful</hi> and <hi>Lawful King.</hi> But what ſhould equally engage the Hearts of his Subjects to him, is the Goodneſs and the Prudence of his Reign over us, His ex<g ref="char:EOLhyphen"/>emplary Courage abroad againſt his open Enemy, and his ſedate Conduct at Home amongſt ſome ungrateful and untractable People: Indeed, all his Vertues do ſufficient<g ref="char:EOLhyphen"/>ly recommend him to the Love of his Peo<g ref="char:EOLhyphen"/>ple.
+<pb n="23" facs="tcp:101754:12"/> And if after this indiſputable Right to the Crown, and thoſe good Qualifications of a Governour, there are ſtill thoſe Men amongſt us, that, like the ancient <hi>Iſraelites,</hi> will murmur againſt God and his Servant <hi>Moſes,</hi> if they will plot againſt, and malici<g ref="char:EOLhyphen"/>ouſly conſpire the Deſtruction of our good Deliverer, they muſt expect to have the ſame Vengeance fall upon them, as did upon <hi>them;</hi> God will <hi>rule in the midſt of his Enemies,</hi> and if they will not bow to his gentle Scepter, he can take up a Rod of Iron and break them in pieces. It is a Saying of a King repreſent<g ref="char:EOLhyphen"/>ed to us by our Saviour in the Goſpel, <hi>Thoſe</hi> 
+               <note place="margin">Luke 19. 27.</note> 
+               <hi>mine Enemies that would not I ſhould reign over them, bring hither, and ſlay them before me.</hi>
+            </p>
+            <p n="2">2. The Second Reaſon, why ſome Men are diſſatisfied with the preſent Government, may be their Longings after their ancient Maſter. Why truly, this carries a fair and a ſpecious Face outwardly with it; there are ſome Allowances to be made for Humanity and Compaſſion; and the Afflictions of a Friend or a Neighbour, and much more of
+<pb n="24" facs="tcp:101754:13"/> a Prince, do naturally touch the Bowels and Affections of Mankind. But if you will either recollect the Unhappineſſes of the laſt Reign, or conſider how great our Miſeries might probably have been, if the late King ſhould have happened to be brought in by the help of a Foreign Power, no reaſonable Man, I am ſure no true Son of the Church of <hi>England,</hi> ought to be diſcontented with matters as they now ſtand.</p>
+            <p n="1">1. If you will recollect the Unhappineſſes of the laſt Reign: In what a Condition was both the Church and State like then to have been? How did Idolatry creep into the Wor<g ref="char:EOLhyphen"/>ſhip of the one, and Arbitrary Power invade the Priviledges of the other? The Laws of our Land were infringed and trampled upon, the Governours of our Church were impri<g ref="char:EOLhyphen"/>ſoned, our Univerſities were poyſoned with Errors; indeed, <hi>God Almighty</hi> was pleaſed to let all their Deſigns be carried on ſo far, as if he were reſolved to bring us juſt to the Mouth of Deſtruction, that ſo his Goodneſs and Omnipotence might appear the plainer in our Reſcue.</p>
+            <p n="2">
+               <pb n="25" facs="tcp:101754:13"/> 2. Let us conſider the Miſeries we might probably have fallen into, if the late King ſhould have happened to be brought in by a Foreign Power. The Principles and cruel Deſigns of Popery may plainly be under<g ref="char:EOLhyphen"/>ſtood by any who have a mind to it; we have had Trial and Experience enough of them in this Nation, eſpecially now lately we have had a diſmal and horrid View, tho' (bleſſed be God) it was but a tranſient View of the true Spirit and Temper of that Reli<g ref="char:EOLhyphen"/>gion: But then to conſider the Tenets of that Religion, joyn'd with a natural Impla<g ref="char:EOLhyphen"/>cableneſs of a Man's own Temper, and that exaſperated not only by the Inſtigations of vile Men about him, but likewiſe by the irkſom and vexatious remembrances of his own Loſſes. All this, I ſay, put toge<g ref="char:EOLhyphen"/>ther, what could be expected from the Succeſs of ſuch a Deſign as this? Good God! to what a height of Barbarity would their Inſolence and Rage have drove them, if their Plots had taken effect? There is no expecting <hi>Grapes of Thorns,</hi> or <hi>Figs of Thiſtles.</hi> 
+               <note place="margin">Mat. 7. 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <pb n="26" facs="tcp:101754:14"/> The Foundation of this true <hi>Romiſh</hi> Attempt, like that of ancient <hi>Rome,</hi> was to be laid in <hi>Royal Blood;</hi> and what After-works were to be expected from ſuch Beginnings?</p>
+            <p>And now, ſince by the undeſerved Mercy of God to us, we have eſcaped their Rage and Fury, can any Member of our Church have any Adherency to the Maintainers of theſe bloody Principles? Can any Profeſſors of the true and peaceable <hi>Faith</hi> of Chriſt have any Affection for the <hi>Defenders</hi> of ſuch a <hi>Faith</hi> as This? In ſhort, to uſe the words of <hi>Ezra, Seeing that thou our God haſt puniſh<g ref="char:EOLhyphen"/>ed</hi> 
+               <note place="margin">Ezra 9. 13, 14.</note> 
+               <hi>us leſs than our Iniquities deſerve, and haſt given us ſuch a Deliverance as this, ſhould we again break thy Commandments, and joyn in Af<g ref="char:EOLhyphen"/>finity with the People of Theſe Abomina<g ref="char:EOLhyphen"/>tions, wouldſt not thou be angry with us till thou hadſt conſumed us, ſo that there ſhould be no remnant nor eſcaping?</hi>
+            </p>
+            <p>But it was not only Popery that was com<g ref="char:EOLhyphen"/>ing in upon us, but a <hi>Foreign Power.</hi> When God threatens his People with the ſevereſt
+<pb n="27" facs="tcp:101754:14"/> ſort of Foes, he adds this as the moſt aggra<g ref="char:EOLhyphen"/>vating Circumſtance, <hi>I will bring a Nation</hi> 
+               <note place="margin">Jer. 5. 15.</note> 
+               <hi>upon you from far; a Nation whoſe Language thou knoweſt not, neither underſtandeſt what they ſay.</hi> Nor was it only a <hi>Foreign Power</hi> that was coming, but a <hi>Power</hi> that has hitherto exerciſed the greateſt Inhumanities, a <hi>Power</hi> that has diſturb'd the Peace of Chriſtendom, a <hi>Power</hi> that, were not the <hi>Power</hi> of God greater than it, would over-run all the Bounds of Right and Wrong, and would ſwallow the whole World without Remorſe, and make the very Church of Chriſt a Prey to its Inſatiableneſs. I would therefore have thoſe Men that are Well-wiſhers to their Old Maſter, as they term him, conſider, they cannot have him without this <hi>Power</hi> we have been deſcribing: And how ſmall Gainers ei<g ref="char:EOLhyphen"/>ther their Maſter or themſelves would be by this <hi>Power,</hi> if it ſhould prevail, may eaſily be gueſs'd from the many <hi>wonderful Loving-kindneſſes</hi> and Mercies it has hitherto been guilty of in all its Conqueſts.</p>
+            <p>
+               <hi>Thirdly,</hi> The third Reaſon why ſome Men will not comply with the Government may
+<pb n="28" facs="tcp:101754:15"/> be ſome preſſures of Conſcience they may pretend to be laid upon them; but what thoſe preſſures are, who can tell? Sure I am, a great many are taken off; here are no Perſecutions now for Conſcience ſake, no Impriſonments for bare Non-compliances; nothing that is heavy or grievous to the Subject, but what the misfortune of a War makes unavoidable. But one thing there is thas lies heavy at the bottom of ſome Mens Stomachs, and that is ſome <hi>Oaths</hi> and <hi>Obli<g ref="char:EOLhyphen"/>gations,</hi> and <hi>Subſcriptions,</hi> which the Wiſe and Great Council of the Nation think pro<g ref="char:EOLhyphen"/>per to be taken, and entred into. And when the Government has thus determin'd them to be proper, I think it no offence to any any Man's Conſcience to comply with them.</p>
+            <p>The Throne became vacant by <hi>Ceſſion,</hi> or <hi>Deſertion,</hi> and the next Heir by Right<g ref="char:EOLhyphen"/>ful Succeſſion was placed in it by the hand of God, and the conſent of the People; which was ſolemnly confirm'd by the Three Eſtates of the Government. Then forms of Oaths of Fidelity were Compos'd and Ten<g ref="char:EOLhyphen"/>der'd to the People, and undoubtedly with
+<pb n="29" facs="tcp:101754:15"/> the greateſt Prudence, and Wiſdom; for Men are apt to ſit looſe in their Obedi<g ref="char:EOLhyphen"/>ence, without the reſtraints and ties of Conſcience, and then nothing but Power can keep the wavering parts of ſuch a Go<g ref="char:EOLhyphen"/>vernment together. The People are a fluid Body, like the Sea, and every Wind puts them into a Diſturbance, and Commotion, therefore Oaths are of great uſe in a Go<g ref="char:EOLhyphen"/>vernment, to fix and ſettle the Subjects of it.</p>
+            <p>But the moſt prepoſterous Creature of all is, he that can take the Oaths, and yet ſpeak and act againſt the Government, that can deliberately in a Court of Judicature Swear Fidelity to a Prince, and with the next Glaſs of Wine mix his Confuſion. It is indeed a thing much to be lamented, that Men can thus trifle with their Conſciences, and I could heartily wiſh the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> could not be tax'd with the having of ſome of this ſtamp in her boſom. Indeed they would make far fitter Members for the Church of <hi>Rome,</hi> where Equivocation, and the palliating of a Man's Conſcience is as much Tolerated, as ſpeaking of Truth
+<pb n="30" facs="tcp:101754:16"/> is Commanded in the true Church of Chriſt.</p>
+            <p>I have now done with the two ſorts of Men which my Text ſeem'd directly to point at, the Men that <hi>ſeeing, will not ſee,</hi> nor <hi>hearing, will not hear, neither will they underſtand.</hi> And I will now make uſe of the ſame Inference from theſe words to <hi>you,</hi> that our Saviour did to his Diſciples, <hi>but bleſſed are your eyes, for you ſee, and your ears, for you hear.</hi>
+            </p>
+            <p>I hope there is no body here but what is fully convinced of the continual Endea<g ref="char:EOLhyphen"/>vours of the Romiſh Party againſt us, how cloſe they are in their Contrivances, how eager they are in their Purſuits, and how Barbarous they would be in their Executi<g ref="char:EOLhyphen"/>ons. Not to recount all their Plots and Conſpiracies ſince the Reformation, let us but thoroughly look into this laſt contrived againſt us: How deep was it laid, and how far was it carried on? What Preparations of War did, as out of the Clouds, on the ſudden appear to us from afar? And how ſecretly were their Combinations carried on here at Home? And yet, by the merciful Providence of God how happily and how ſtrangely was
+<pb n="31" facs="tcp:101754:16"/> it prevented, even when it was juſt upon the point of Execution!</p>
+            <p>Plots and Conſpiracies againſt the Church of Chriſt and Lawful Governments, prove often to be of the ſame Nature in the Political Body, as Boils and Tumors are in a Man's Natural Body; all the ill Blood gathers toge<g ref="char:EOLhyphen"/>ther, and there it frets and ferments for ſome time, and is very angry and peeviſh, till it di<g ref="char:EOLhyphen"/>geſts and grows ripe, and then it is either lanced and probed to the bottom, or it often breaks of it ſelf, and lets out the Corruption, and afterwards the whole Body is much the better for it.</p>
+            <p>Indeed we have great Reaſon to thank Al<g ref="char:EOLhyphen"/>mighty God for his Critical Diſcovery of this black Conſpiracy that was now laid againſt the Perſon of our Sacred King and all his good Subjects at once: It was truly come to a full Head and Ripeneſs; and the Deſign, as it was Cruel and Tragical, ſo certainly would the Execution of it have been Univer<g ref="char:EOLhyphen"/>ſal, it had broke in like Wildfire amongſt us, and none would have eſcaped its Wrath and Fury: And God, we cannot but confeſs, might have juſtly ſtood aloof from us in the
+<pb n="32" facs="tcp:101754:17" rendition="simple:additions"/> Day of our Diſtreſs, and might have ſaid to us as he once did to the Children of <hi>Iſrael, So often have I delivered you from the hands of your enemies, but ye have ſtill provoked me more and more, wherefore I will deliver you no more.</hi> But his tender Mercies have been far greater unto us.</p>
+            <p>And now what may God juſtly expect from us in return for this his Goodneſs to us?</p>
+            <p n="1">1. That we ſhould glorifie him by off ring him Praiſe and Thankſgiving, and by <hi>order<g ref="char:EOLhyphen"/>ing our Converſation aright,</hi> that he may ſtill delight to ſhew us his Salvation.</p>
+            <p n="2">2. That we ſhould live quietly and peaceably under <hi>Him</hi> that he has placed over us as our Lawful Governour, praying to Almigh<g ref="char:EOLhyphen"/>ty God that he would defend and protect him both againſt all open Violence, and againſt all ſecret Attempts; that he would guide his Counſels at home, and proſper his Arms a<g ref="char:EOLhyphen"/>broad; that he would give <hi>Him</hi> a long and happy Reign over us, and keep <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> in hum<g ref="char:EOLhyphen"/>ble and due Obedience to him. Laſtly, That he would <hi>cloath all his Enemies with ſhame, but upon himſelf let his Crown, flouriſh.</hi> And this we beg for Jeſus Chriſt his Sake. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
